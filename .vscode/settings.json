@@ -7,5 +7,6 @@
         "minecraft",
         "sublicensable",
         "waivable"
-    ]
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic"
 }
