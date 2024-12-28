@@ -1,12 +1,1 @@
-{
-    "cSpell.words": [
-        "creativecommons",
-        "fabricmc",
-        "lwjgl",
-        "LWJGL",
-        "minecraft",
-        "sublicensable",
-        "waivable"
-    ],
-    "java.configuration.updateBuildConfiguration": "automatic"
-}
+.vscode/settings.json
