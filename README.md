@@ -1,6 +1,6 @@
 # Prism Launcher Minecraft Instance
 
-[![Project Status: Maintained](./.assets/images/badges/status/maintained.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/EsotericTemplates/template-asset-repository?style=for-the-badge&logo=github&label=Repository%20size)](./)
+[![Project Status: Maintained](./.assets/images/badges/status/maintained.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/esotericenderman/prism-launcher-minecraft-instance?style=for-the-badge&logo=github&label=Repository%20size)](./)
 
 This is my configuration for my Minecraft instance using Prism Launcher.
 
