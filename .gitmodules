@@ -1,6 +1,6 @@
-[submodule ".minecraft"]
-	path = .minecraft
-	url = git@github.com:EsotericEnderman/.minecraft
 [submodule "esoteric-defaults-modpack"]
 	path = modpack
 	url = git@github.com:esoterictemplates/esoteric-defaults-modpack.git
+[submodule ".minecraft"]
+	path = .minecraft
+	url = git@github.com:esoterictemplates/template-minecraft-configuration.git
